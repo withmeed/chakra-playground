@@ -22,7 +22,8 @@ const Header = () => {
           _hover={{
             background: "teal.500",
             color: "white",
-          }}>
+          }}
+         >
           Connect Wallet
         </Button>
       </Box>
