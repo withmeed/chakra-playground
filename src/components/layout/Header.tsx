@@ -1,7 +1,7 @@
 import { Box, Flex, Heading, Button } from "@chakra-ui/react";
 import Link from "next/link";
 
-//import ThemeToggle from "./ThemeToggle";
+// import ThemeToggle from "./ThemeToggle";
 
 const Header = () => {
   return (
@@ -18,13 +18,11 @@ const Header = () => {
           as="a"
           href="https://github.com/sozonome/nextarter-chakra/generate"
           target="_blank"
-          size="lg"          
+          size="lg"
           _hover={{
             background: "teal.500",
             color: "white",
-          }}
-
-        >
+          }}>
           Connect Wallet
         </Button>
       </Box>
