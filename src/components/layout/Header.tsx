@@ -18,12 +18,7 @@ const Header = () => {
           as="a"
           href="https://github.com/sozonome/nextarter-chakra/generate"
           target="_blank"
-          size="lg"
-          _hover={{
-            background: "teal.500",
-            color: "white",
-          }}
-         >
+          size="lg" >
           Connect Wallet
         </Button>
       </Box>
