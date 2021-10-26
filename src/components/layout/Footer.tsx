@@ -1,4 +1,4 @@
-import { Flex, Link, Text } from "@chakra-ui/react";
+import { Flex } from "@chakra-ui/react";
 import ThemeToggle from "./ThemeToggle";
 
 const Footer = () => {
