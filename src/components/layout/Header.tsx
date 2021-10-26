@@ -23,7 +23,7 @@ const Header = () => {
         </Button>
       </Box>
     </Flex>
-  );
+ );
 };
 
 export default Header;
